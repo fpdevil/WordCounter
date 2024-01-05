@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+Netlify deployed app is available [here](https://wordcounter-ui.netlify.app).
 
 ## Available Scripts
 
